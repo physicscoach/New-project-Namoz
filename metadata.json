@@ -1,0 +1,6 @@
+{
+  "name": "Namoz Vaqtlari",
+  "description": "Kreativ dizayn va munosib islomiy uslubga ega bo'lgan kunlik namoz vaqtlari, hijriy-milodiy sana tafsilotlari, Qur'on oyati va tasbeh hisoblagichi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
